@@ -1,0 +1,195 @@
+Time to decrypt: 0.714205
+Event triggered at Sensor: 6
+Nodes: 2, 7, 10, 
+Value is: 34
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:34 2019
+Time Recieved: Sun Oct 20 16:15:34 2019
+Total Events so far: 1
+
+Time to decrypt: 0.700213
+Event triggered at Sensor: 5
+Nodes: 1, 6, 9, 
+Value is: 34
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:35 2019
+Time Recieved: Sun Oct 20 16:15:35 2019
+Total Events so far: 2
+
+Time to decrypt: 0.723841
+Event triggered at Sensor: 4
+Nodes: 0, 5, 8, 
+Value is: 34
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:36 2019
+Time Recieved: Sun Oct 20 16:15:36 2019
+Total Events so far: 3
+
+Time to decrypt: 0.738356
+Event triggered at Sensor: 14
+Nodes: 10, 15, 18, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:36 2019
+Time Recieved: Sun Oct 20 16:15:37 2019
+Total Events so far: 4
+
+Time to decrypt: 0.689699
+Event triggered at Sensor: 13
+Nodes: 9, 14, 17, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:37 2019
+Time Recieved: Sun Oct 20 16:15:37 2019
+Total Events so far: 5
+
+Time to decrypt: 0.694242
+Event triggered at Sensor: 12
+Nodes: 8, 13, 16, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:38 2019
+Time Recieved: Sun Oct 20 16:15:38 2019
+Total Events so far: 6
+
+Time to decrypt: 0.688323
+Event triggered at Sensor: 18
+Nodes: 14, 19, 17, 
+Value is: 18
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:39 2019
+Time Recieved: Sun Oct 20 16:15:39 2019
+Total Events so far: 7
+
+Time to decrypt: 0.710433
+Event triggered at Sensor: 17
+Nodes: 13, 18, 16, 
+Value is: 18
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:40 2019
+Time Recieved: Sun Oct 20 16:15:40 2019
+Total Events so far: 8
+
+Time to decrypt: 0.712325
+Event triggered at Sensor: 10
+Nodes: 6, 11, 14, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:40 2019
+Time Recieved: Sun Oct 20 16:15:41 2019
+Total Events so far: 9
+
+Time to decrypt: 0.695108
+Event triggered at Sensor: 9
+Nodes: 5, 10, 13, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:41 2019
+Time Recieved: Sun Oct 20 16:15:41 2019
+Total Events so far: 10
+
+Time to decrypt: 0.684439
+Event triggered at Sensor: 14
+Nodes: 10, 15, 18, 
+Value is: 22
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:41 2019
+Time Recieved: Sun Oct 20 16:15:42 2019
+Total Events so far: 11
+
+Time to decrypt: 0.712388
+Event triggered at Sensor: 8
+Nodes: 4, 9, 12, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:42 2019
+Time Recieved: Sun Oct 20 16:15:43 2019
+Total Events so far: 12
+
+Time to decrypt: 0.723624
+Event triggered at Sensor: 13
+Nodes: 9, 14, 17, 
+Value is: 22
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:42 2019
+Time Recieved: Sun Oct 20 16:15:43 2019
+Total Events so far: 13
+
+Time to decrypt: 0.713865
+Event triggered at Sensor: 14
+Nodes: 10, 15, 13, 
+Value is: 18
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:43 2019
+Time Recieved: Sun Oct 20 16:15:44 2019
+Total Events so far: 14
+
+Time to decrypt: 0.739974
+Event triggered at Sensor: 12
+Nodes: 8, 13, 16, 
+Value is: 22
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:43 2019
+Time Recieved: Sun Oct 20 16:15:45 2019
+Total Events so far: 15
+
+Time to decrypt: 0.701110
+Event triggered at Sensor: 13
+Nodes: 9, 14, 12, 
+Value is: 18
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:44 2019
+Time Recieved: Sun Oct 20 16:15:46 2019
+Total Events so far: 16
+
+Time to decrypt: 0.696174
+Event triggered at Sensor: 6
+Nodes: 2, 7, 10, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:44 2019
+Time Recieved: Sun Oct 20 16:15:46 2019
+Total Events so far: 17
+
+Time to decrypt: 0.673902
+Event triggered at Sensor: 4
+Nodes: 0, 5, 8, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:46 2019
+Time Recieved: Sun Oct 20 16:15:47 2019
+Total Events so far: 18
+
+Time to decrypt: 0.462287
+Event triggered at Sensor: 5
+Nodes: 1, 6, 9, 
+Value is: 24
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:45 2019
+Time Recieved: Sun Oct 20 16:15:48 2019
+Total Events so far: 19
+
+Time to decrypt: 0.446370
+Event triggered at Sensor: 10
+Nodes: 6, 11, 14, 
+Value is: 22
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:45 2019
+Time Recieved: Sun Oct 20 16:15:48 2019
+Total Events so far: 20
+
+Time to decrypt: 0.444378
+Event triggered at Sensor: 9
+Nodes: 5, 10, 13, 
+Value is: 22
+Network Address: 127.0.1.1
+Time Sent: Sun Oct 20 16:15:46 2019
+Time Recieved: Sun Oct 20 16:15:48 2019
+Total Events so far: 21
+
+Summary:
+Simulation completed Sucessfully!
+Events Detected: 21
+Time Taken in sec: 16.346365
+Average Time for a Decrypt: 0.669774
+Non-event Messages: 1
